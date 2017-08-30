@@ -1,2 +1,2 @@
-# todo-list
+# Todo-list
 Angular Todo
